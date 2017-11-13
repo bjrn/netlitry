@@ -1,8 +1,10 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: A Dance With Dragons
+title: 'A static page, powered by markdown …'
 ---
+> _”Do or do not — there is no try”_
+
 The Dothraki do things in their own time, for their own reasons. Fire and blood. When you play the game of thrones, you win or you die. The Dothraki do things in their own time, for their own reasons. What is dead may never die.
 
 Bastards are born of passion, aren't they? We don't despise them in Dorne. When you play the game of thrones,   you win or you die. More pigeon pie, please. More pigeon pie, please. A forked purple lightning bolt, on black field speckled with four-pointed stars. The Knight of Lemonwood.
