@@ -1,0 +1,64 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-1c50758c03d4d8f8de7a.js",
+      "component---src-pages-index-js-1c50758c03d4d8f8de7a.js.map"
+    ],
+    "path---claude": [
+      "path---claude-c7dc01f7996c27056b31.js",
+      "path---claude-c7dc01f7996c27056b31.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-8156fab73747df53593d.js",
+      "component---src-templates-blog-post-js-8156fab73747df53593d.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-5cc0964c010d3f370c90.js",
+      "component---src-layouts-index-js-5cc0964c010d3f370c90.js.map"
+    ],
+    "path---index": [
+      "path---index-1265173fa4ecc7e9a18a.js",
+      "path---index-1265173fa4ecc7e9a18a.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-cf63a67bce0c07e47a92.js",
+      "commons-cf63a67bce0c07e47a92.js.map"
+    ],
+    "path---intro-to-graphql": [
+      "path---intro-to-graphql-1beecba5c25ae0e2ce45.js",
+      "path---intro-to-graphql-1beecba5c25ae0e2ce45.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---einstein": [
+      "path---einstein-7c7a90c083dc95de5dea.js",
+      "path---einstein-7c7a90c083dc95de5dea.js.map"
+    ],
+    "app": [
+      "app-2f12db39139c32a206eb.js",
+      "app-2f12db39139c32a206eb.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-templates-about-page-js": [
+      "component---src-templates-about-page-js-1d0e542ca68f14a8c6e6.js",
+      "component---src-templates-about-page-js-1d0e542ca68f14a8c6e6.js.map"
+    ],
+    "path---about": [
+      "path---about-3fc4a14b09b3127f195e.js",
+      "path---about-3fc4a14b09b3127f195e.js.map"
+    ]
+  }
+}

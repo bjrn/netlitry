@@ -1,0 +1,2 @@
+webpackJsonp([0xfeac6d35c55b],{300:function(e,t){e.exports={data:{markdownRemark:{html:'<p>Markdown with code snippets?</p>\n<pre><code>10 PRINT "HELLO WORLD"\n20 GOTO 10\n</code></pre>\n<p>...</p>',frontmatter:{path:"/a/custom/uri",date:"November 11, 2017",title:"Lorem ipsum dolor"}}},pathContext:{}}}});
+//# sourceMappingURL=path---a-custom-uri-4d8fbd8a48234f494816.js.map
